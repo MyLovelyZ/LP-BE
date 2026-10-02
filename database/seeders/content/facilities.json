@@ -1,0 +1,326 @@
+[
+    {
+        "title": "Laboratorium Multimedia",
+        "description": "Ruang komputer ber-AC untuk praktik desain grafis, ilustrasi digital, dan editing video.",
+        "icon": "monitor",
+        "category": "praktik",
+        "features": [
+            "Komputer untuk praktik desain dan editing",
+            "Software desain grafis dan editing video",
+            "Ruangan ber-AC"
+        ],
+        "majors": [
+            "MM"
+        ],
+        "images": [
+            "facilities/Lab MM 1.jpg",
+            "facilities/Lab MM 2.jpg"
+        ]
+    },
+    {
+        "title": "Workshop Multimedia",
+        "description": "Studio produksi dengan green screen, kamera, dan lighting untuk praktik foto dan video seperti di rumah produksi.",
+        "icon": "camera",
+        "category": "praktik",
+        "features": [
+            "Green screen untuk produksi video",
+            "Kamera dan tripod",
+            "Komputer untuk editing hasil rekaman"
+        ],
+        "majors": [
+            "MM"
+        ],
+        "images": [
+            "facilities/WS MM.jpg"
+        ]
+    },
+    {
+        "title": "Studio Podcast",
+        "description": "Studio rekaman podcast dan video lengkap dengan lighting softbox dan kamera untuk praktik produksi konten.",
+        "icon": "video",
+        "category": "praktik",
+        "features": [
+            "Lighting softbox",
+            "Kamera dan tripod untuk rekaman",
+            "Meja siaran untuk podcast"
+        ],
+        "majors": [
+            "MM"
+        ],
+        "images": [
+            "facilities/Lab Podcast 1.jpg",
+            "facilities/Lab Podcast 2.jpg"
+        ]
+    },
+    {
+        "title": "Laboratorium RPL",
+        "description": "Laboratorium komputer untuk praktik pemrograman web, aplikasi mobile, dan basis data.",
+        "icon": "code",
+        "category": "praktik",
+        "features": [
+            "Komputer untuk praktik pemrograman",
+            "Software pengembangan aplikasi",
+            "Akses internet"
+        ],
+        "majors": [
+            "RPL"
+        ],
+        "images": [
+            "facilities/Lab RPL.jpg"
+        ]
+    },
+    {
+        "title": "Laboratorium Mikrotik",
+        "description": "Laboratorium komputer dengan rak perangkat jaringan untuk praktik konfigurasi router dan switch.",
+        "icon": "network",
+        "category": "praktik",
+        "features": [
+            "Router dan switch Mikrotik",
+            "Rak perangkat jaringan",
+            "Komputer untuk praktik konfigurasi"
+        ],
+        "majors": [
+            "TKJ"
+        ],
+        "images": [
+            "facilities/Lab Mikrotik.jpg"
+        ]
+    },
+    {
+        "title": "Laboratorium Fiber Optik",
+        "description": "Ruang praktik instalasi jaringan fiber optik, lengkap dengan simulasi tiang dan jalur kabel seperti di lapangan.",
+        "icon": "server",
+        "category": "praktik",
+        "features": [
+            "Simulasi tiang dan jalur kabel",
+            "Peralatan instalasi fiber optik",
+            "Rak dan kabinet perangkat jaringan"
+        ],
+        "majors": [
+            "TKJ"
+        ],
+        "images": [
+            "facilities/Lab Fiber Optik 1.jpg",
+            "facilities/Lab Fiber Optik 2.jpg"
+        ]
+    },
+    {
+        "title": "Workshop TKJ",
+        "description": "Bengkel perakitan dan perbaikan komputer serta perangkat jaringan, dengan meja kerja dan rak komponen.",
+        "icon": "cpu",
+        "category": "praktik",
+        "features": [
+            "Meja kerja perakitan komputer",
+            "Trainer dan komponen elektronika",
+            "Peralatan instalasi kabel jaringan"
+        ],
+        "majors": [
+            "TKJ"
+        ],
+        "images": [
+            "facilities/WS TKJ 1.jpg",
+            "facilities/WS TKJ 2.jpg",
+            "facilities/WS TKJ 3.jpg"
+        ]
+    },
+    {
+        "title": "Bank Mini",
+        "description": "Simulasi layanan bank sungguhan untuk praktik teller dan customer service.",
+        "icon": "bank",
+        "category": "praktik",
+        "features": [
+            "Meja teller dan customer service",
+            "Ruang tunggu nasabah",
+            "Praktik transaksi tabungan siswa"
+        ],
+        "majors": [
+            "PKM"
+        ],
+        "images": [
+            "facilities/WS PKM 1.jpg",
+            "facilities/WS PKM 2.jpg",
+            "facilities/WS PKM 3.jpg"
+        ]
+    },
+    {
+        "title": "Laboratorium Layanan Perbankan",
+        "description": "Ruang praktik dengan meja layanan untuk latihan melayani nasabah dan administrasi perbankan.",
+        "icon": "calculator",
+        "category": "praktik",
+        "features": [
+            "Meja layanan untuk simulasi pelayanan",
+            "Proyektor dan papan tulis",
+            "Muat satu rombongan belajar"
+        ],
+        "majors": [
+            "PKM"
+        ],
+        "images": [
+            "facilities/Lab LPB.jpg"
+        ]
+    },
+    {
+        "title": "Bengkel Otomasi",
+        "description": "Trainer PLC, pneumatik, dan panel listrik industri untuk praktik otomasi.",
+        "icon": "cpu",
+        "category": "praktik",
+        "features": [
+            "Trainer PLC",
+            "Rangkaian sensor dan pneumatik",
+            "Panel listrik industri"
+        ],
+        "majors": [
+            "TOI"
+        ],
+        "images": []
+    },
+    {
+        "title": "Ruang Kelas",
+        "description": "Ruang kelas yang lapang dan terang dengan proyektor untuk pembelajaran teori.",
+        "icon": "users",
+        "category": "penunjang",
+        "features": [
+            "32 ruang kelas",
+            "Proyektor dan layar presentasi",
+            "Meja dan kursi siswa"
+        ],
+        "majors": [],
+        "images": [
+            "facilities/Ruang Kelas 1.jpg",
+            "facilities/Ruang Kelas 2.jpg"
+        ]
+    },
+    {
+        "title": "Perpustakaan Digital",
+        "description": "Koleksi buku cetak dan e-book, ruang baca yang nyaman, serta akses internet cepat untuk belajar mandiri.",
+        "icon": "book",
+        "category": "penunjang",
+        "features": [
+            "Buku cetak dan e-book",
+            "Ruang baca",
+            "Akses internet"
+        ],
+        "majors": [],
+        "images": [
+            "facilities/Perpustakaan.jpg"
+        ]
+    },
+    {
+        "title": "Kantor BKK & LSP",
+        "description": "Kantor Bursa Kerja Khusus dan Lembaga Sertifikasi Profesi, tempat siswa dan alumni mencari lowongan kerja, berkonsultasi soal karier, dan mengurus sertifikasi.",
+        "icon": "briefcase",
+        "category": "penunjang",
+        "features": [
+            "Informasi lowongan kerja",
+            "Konsultasi karier",
+            "Ruang tamu untuk mitra industri"
+        ],
+        "majors": [],
+        "images": [
+            "facilities/RUANG BKK-LSP.jpg",
+            "facilities/RUANG BKK- LSP 2.jpg"
+        ]
+    },
+    {
+        "title": "Ruang LSP",
+        "description": "Ruang Lembaga Sertifikasi Profesi untuk uji kompetensi, supaya siswa lulus dengan sertifikat keahlian.",
+        "icon": "award",
+        "category": "penunjang",
+        "features": [
+            "Pelaksanaan uji kompetensi",
+            "Administrasi sertifikasi",
+            "Arsip dokumen peserta uji"
+        ],
+        "majors": [],
+        "images": [
+            "facilities/Ruang LSP 1.jpg",
+            "facilities/RUANG LSP 2.jpg",
+            "facilities/RUANG LSP 3.jpg"
+        ]
+    },
+    {
+        "title": "KBS (Toko Sekolah)",
+        "description": "Toko sekolah ber-AC yang menyediakan makanan ringan, minuman, dan perlengkapan sekolah.",
+        "icon": "briefcase",
+        "category": "penunjang",
+        "features": [
+            "Makanan ringan dan minuman",
+            "Perlengkapan sekolah",
+            "Ruangan ber-AC"
+        ],
+        "majors": [],
+        "images": [
+            "facilities/KBS 1.jpg",
+            "facilities/KBS 2.jpg",
+            "facilities/KBS 3.jpg"
+        ]
+    },
+    {
+        "title": "Kantin",
+        "description": "Kantin semi terbuka dengan beberapa kios makanan dan meja makan, tempat siswa beristirahat.",
+        "icon": "users",
+        "category": "penunjang",
+        "features": [
+            "Kios makanan dan minuman",
+            "Meja makan bersama",
+            "Area semi terbuka"
+        ],
+        "majors": [],
+        "images": [
+            "facilities/Kanti 1.jpg",
+            "facilities/Kantin 2.jpg"
+        ]
+    },
+    {
+        "title": "Toilet",
+        "description": "Toilet yang bersih dan terawat dengan wastafel dan cermin.",
+        "icon": "check",
+        "category": "penunjang",
+        "features": [
+            "Wastafel dan cermin",
+            "Bilik toilet tertutup"
+        ],
+        "majors": [],
+        "images": [
+            "facilities/Toilet.jpg"
+        ]
+    },
+    {
+        "title": "Masjid Sekolah",
+        "description": "Pusat kegiatan ibadah, kajian rutin, dan pembinaan karakter siswa setiap hari.",
+        "icon": "mosque",
+        "category": "penunjang",
+        "features": [
+            "Salat berjamaah",
+            "Kajian rutin",
+            "Pembinaan karakter"
+        ],
+        "majors": [],
+        "images": []
+    },
+    {
+        "title": "Laboratorium Bahasa",
+        "description": "Ruang belajar bahasa dengan perangkat audio untuk latihan menyimak dan berbicara, dipakai di kelas Bahasa Inggris dan Jepang.",
+        "icon": "headphones",
+        "category": "penunjang",
+        "features": [
+            "Perangkat audio untuk setiap siswa",
+            "Kelas Bahasa Inggris dan Jepang",
+            "Persiapan kerja dan magang luar negeri"
+        ],
+        "majors": [],
+        "images": []
+    },
+    {
+        "title": "Laboratorium IPA",
+        "description": "Laboratorium sains untuk praktikum mata pelajaran Projek IPAS, supaya siswa memahami konsep lewat percobaan langsung.",
+        "icon": "flask",
+        "category": "penunjang",
+        "features": [
+            "Alat dan bahan praktikum sains",
+            "Praktikum Projek IPAS"
+        ],
+        "majors": [],
+        "images": []
+    }
+]
