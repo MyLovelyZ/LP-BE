@@ -172,7 +172,9 @@
         "majors": [
             "TOI"
         ],
-        "images": []
+        "images": [
+            "facilities/Bengkel Otomasi.jpeg"
+        ]
     },
     {
         "title": "Ruang Kelas",
@@ -284,43 +286,5 @@
         "images": [
             "facilities/Toilet.jpg"
         ]
-    },
-    {
-        "title": "Masjid Sekolah",
-        "description": "Pusat kegiatan ibadah, kajian rutin, dan pembinaan karakter siswa setiap hari.",
-        "icon": "mosque",
-        "category": "penunjang",
-        "features": [
-            "Salat berjamaah",
-            "Kajian rutin",
-            "Pembinaan karakter"
-        ],
-        "majors": [],
-        "images": []
-    },
-    {
-        "title": "Laboratorium Bahasa",
-        "description": "Ruang belajar bahasa dengan perangkat audio untuk latihan menyimak dan berbicara, dipakai di kelas Bahasa Inggris dan Jepang.",
-        "icon": "headphones",
-        "category": "penunjang",
-        "features": [
-            "Perangkat audio untuk setiap siswa",
-            "Kelas Bahasa Inggris dan Jepang",
-            "Persiapan kerja dan magang luar negeri"
-        ],
-        "majors": [],
-        "images": []
-    },
-    {
-        "title": "Laboratorium IPA",
-        "description": "Laboratorium sains untuk praktikum mata pelajaran Projek IPAS, supaya siswa memahami konsep lewat percobaan langsung.",
-        "icon": "flask",
-        "category": "penunjang",
-        "features": [
-            "Alat dan bahan praktikum sains",
-            "Praktikum Projek IPAS"
-        ],
-        "majors": [],
-        "images": []
     }
 ]
